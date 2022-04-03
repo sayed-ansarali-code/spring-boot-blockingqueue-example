@@ -8,11 +8,11 @@
 		<version>2.6.6</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.ansar.springevent.example</groupId>
-	<artifactId>spring-event-example</artifactId>
+	<groupId>com.ansar.blockingqueue.example</groupId>
+	<artifactId>spring-boot-blockingqueue-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-event-example</name>
-	<description>SpringBoot application that demonstrates SpringEvent functionality</description>
+	<name>spring-boot-blockingqueue-service</name>
+	<description>SpringBoot application that demonstrates producer-consumer functionality using blockingqueue ans async annotation</description>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
