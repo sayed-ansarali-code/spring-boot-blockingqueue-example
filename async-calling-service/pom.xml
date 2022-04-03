@@ -11,7 +11,7 @@
 	<groupId>com.async.example.calling.service</groupId>
 	<artifactId>async-example-calling-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>async-example-calling-service</name>
+	<name>async-calling-service</name>
 	<description>Async Example - Service thats calling</description>
 	<properties>
 		<java.version>1.8</java.version>
