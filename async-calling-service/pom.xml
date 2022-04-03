@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.async.example.calling.service</groupId>
-	<artifactId>async-example-calling-service</artifactId>
+	<artifactId>async-calling-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>async-calling-service</name>
 	<description>Async Example - Service thats calling</description>
